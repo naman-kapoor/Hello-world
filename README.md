@@ -21,16 +21,15 @@ You can get your own fork/copy of [Hello-world](https://github.com/Hacktoberfest
 
 ### 3. Add a Program in any Language you like :rabbit2:
 Once you have forked the repo, add your program in the language folder in 
-main branch, if there is no language folder, make one, then add into it.
-You can take a look to the [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages) in Wikipedia to create a new one HelloWorld !
+the main branch, if there is no language folder, make one, then add to it.
+You can take a look at the [Programming Language List](https://en.wikipedia.org/wiki/List_of_programming_languages) in Wikipedia to create a new one HelloWorld!
 For a pr to be approved and merged please note 
-- we allow maximum of 5000 additions (your prwill get close if its exceeds, but you can ask maintainer for reviewing this)
-- we dont allow deletions of others files or code.
-- we dont allow files to be directly added in root directory of project, add them in there language folder
+- we allow a maximum of 5000 additions (your pr will get close if it exceeds, but you can ask maintainer for reviewing this)
+- we don't allow deletions of others files or code.
+- we don't allow files to be directly added in the root directory of the project, add them in there language folder
 ### 4. Ready, Steady, Go... :turtle: :rabbit2:
 
-Once you have completed these steps, you are ready to start contributing 
-by checking our `Help Wanted` issues and creating [pull requests](https://github.com/Hacktoberfest-2018/Hello-world/pulls).
+Once you have completed these steps, you are ready to start contributing by checking our `Help Wanted` issues and creating [pull requests](https://github.com/Hacktoberfest-2018/Hello-world/pulls).
 
 ### 5. Give this Project a Star :star:
 
